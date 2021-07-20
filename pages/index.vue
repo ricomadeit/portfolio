@@ -2,7 +2,7 @@
   <div id="landingPage">
     <div class="grid grid-cols-3 justify-items-center grid-rows-4 min-h-screen">
       <NuxtLink 
-        to="/journey"
+        to="/projects"
         class="
           row-start-4
           col-start-2

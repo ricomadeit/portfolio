@@ -10,9 +10,7 @@
 <script>
 
 export default {
-    async asyncData(context) {
-        console.log(context.params, context.query)
-        const { $content, params } = context
+    async asyncData({ $content, params }) {
         const article = await $content('ResumeContent', params.slug).fetch()
         return { article }
     }

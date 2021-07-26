@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "upheaval";
+    src: local("upheaval"),
+      url(../static/fonts/upheavtt.ttf) format("truetype");
+}
+
+html {
+    font-family: upheaval;
+}

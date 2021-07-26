@@ -1,9 +1,13 @@
 <template>
     <div :class="[`prose px-8 py-4 overflow-auto max-w-full h-screen ${slugBackground}`]">
-        <article>
+        <article class="pb-4">
             <nuxt-content :document="article" />
         </article>
-        <NuxtLink to="/"> Back to space </NuxtLink>
+        <div class="flex justify-end">
+            <div class="bg-white w-40 rounded transition duration-300 transform hover:-translate-y-1">
+                <NuxtLink class="pl-2 text-xl" to="/"> Back to space </NuxtLink>
+            </div>
+        </div>
     </div>
 </template>
 
@@ -18,17 +22,17 @@ export default {
         slugBackground() {
             switch (this.article.slug) {
                 case 'about':
-                    return 'bg-green-400'
+                    return 'bg-green-300'
                 case 'education':
-                    return 'bg-red-400'
+                    return 'bg-red-300'
                 case 'experience':
-                    return 'bg-gray-400'
+                    return 'bg-gray-300'
                 case 'projects':
                     return 'bg-indigo-300'
                 case 'skills':
-                    return 'bg-purple-400'
+                    return 'bg-purple-300'
                 case 'summary':
-                    return 'bg-blue-400'
+                    return 'bg-blue-300'
                 }
             return 'bg-white'
         }

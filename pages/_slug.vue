@@ -1,6 +1,6 @@
 <template>
     <div>
-        <article>
+        <article class="prose upheaval">
             <nuxt-content :document="article" />
         </article>
         <NuxtLink to="/"> Back Home </NuxtLink>

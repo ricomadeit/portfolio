@@ -35,11 +35,5 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    font-family: upheaval;
-  }
-  @font-face {
-    font-family: "upheaval";
-    src: local("upheaval"),
-      url(../static/fonts/upheavtt.ttf) format("truetype");
   }
 </style>

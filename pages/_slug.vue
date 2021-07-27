@@ -31,7 +31,7 @@ export default {
                     return 'bg-indigo-300'
                 case 'skills':
                     return 'bg-purple-300'
-                case 'summary':
+                case 'synopsis':
                     return 'bg-blue-300'
                 }
             return 'bg-white'

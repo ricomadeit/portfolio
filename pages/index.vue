@@ -5,7 +5,7 @@
       <h2 class="row-start-4 col-start-3 col-end-5 text-center text-3xl text-indigo-500">Choose a planet</h2>
       <a class="transition duration-300 transform hover:-translate-y-2 row-start-1 col-start-1" href="/about">
         <img src="../static/planets/swamp.gif" />
-        <h5 class="text-green-300 text-lg pt-2"> About </h5>
+        <h5 class="text-green-300 text-lg pt-2"> About Me </h5>
       </a>
       <a class="transition duration-300 transform hover:-translate-y-2 row-start-2 col-start-6" href="/education">
         <img src="../static/planets/fire.gif" />
@@ -23,9 +23,9 @@
         <img class="pl-1" src="../static/planets/ice.gif" />
         <h5 class="text-white text-lg pt-2"> Projects </h5>
       </a>
-      <a class="transition duration-300 transform hover:-translate-y-2 row-start-5 col-start-3" href="/summary">
+      <a class="transition duration-300 transform hover:-translate-y-2 row-start-5 col-start-3" href="/synopsis">
         <img src="../static/planets/earth.gif" />
-        <h5 class="text-indigo-300 text-lg pt-2"> Summary </h5>
+        <h5 class="text-indigo-300 text-lg pt-2"> Synopsis </h5>
       </a>
     </div>
   </div>

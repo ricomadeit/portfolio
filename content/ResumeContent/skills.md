@@ -2,21 +2,24 @@
 
 ### Languages
 ---
-* Python
 * JavaScript
+* HTML
+* CSS
 * Unix/Terminal
 * C
-* HTML
+* Python
 * SQL
-* CSS
-
-### Frameworks
+### Frameworks and Libraries
 ---
 * Vue
-* 3js
 * Tailwind
-* Storybook
-* Git
-* Bootstrap
+* Storybook & Chromatic
+* Git, Github & Github Actions
+* Jest & VueTestUtils
+### Currently Improving
+---
+* 3js
+* Nuxt
 * React
-* Jest
+* Bootstrap
+* GreenSock

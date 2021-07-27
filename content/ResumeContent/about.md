@@ -8,4 +8,4 @@ Volunteer work for Free Footie and Inter Soccer Club as a coach
 
 [Music enthusiast](https://soundcloud.com/r1comadeit)
 
-Fluent in French and English
+Fluent in English and proficient in French

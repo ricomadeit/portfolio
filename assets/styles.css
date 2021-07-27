@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "upheaval";
+    src: local("upheaval"),
+      url(../static/fonts/upheavtt.ttf) format("truetype");
+}
+
+html {
+    font-family: upheaval;
+}
+
+h3, h4, h5, h6, p, ul {
+    font-family: 'Cairo', sans-serif;
+}

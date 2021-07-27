@@ -5,23 +5,23 @@
       <h2 class="row-start-4 col-start-3 col-end-5 text-center text-3xl text-indigo-500">Choose a planet</h2>
       <a class="transition duration-300 transform hover:-translate-y-2 row-start-1 col-start-1" href="/about">
         <img src="../static/planets/swamp.gif" />
-        <h5 class="text-indigo-300 text-lg pt-2"> About </h5>
+        <h5 class="text-green-300 text-lg pt-2"> About </h5>
       </a>
       <a class="transition duration-300 transform hover:-translate-y-2 row-start-2 col-start-6" href="/education">
         <img src="../static/planets/fire.gif" />
-        <h5 class="text-indigo-300 text-lg pt-2"> Education </h5>
+        <h5 class="text-red-300 text-lg pt-2"> Education </h5>
       </a>
       <a class="transition duration-300 transform hover:-translate-y-2 row-start-1 col-start-4" href="/experience">
         <img class="pl-3" src="../static/planets/moon.gif" />
-        <h5 class="text-indigo-300 text-lg pt-2"> Experience </h5>
+        <h5 class="text-gray-300 text-lg pt-2"> Experience </h5>
       </a>
       <a class="transition duration-300 transform hover:-translate-y-2 row-start-3 col-start-2" href="/skills">
         <img src="../static/planets/sea.gif" />
-        <h5 class="text-indigo-300 text-lg pt-2"> Skills </h5>
+        <h5 class="text-blue-300 text-lg pt-2"> Skills </h5>
       </a>
       <a class="transition duration-300 transform hover:-translate-y-2 row-start-4 col-start-5" href="/projects">
         <img class="pl-1" src="../static/planets/ice.gif" />
-        <h5 class="text-indigo-300 text-lg pt-2"> Projects </h5>
+        <h5 class="text-white text-lg pt-2"> Projects </h5>
       </a>
       <a class="transition duration-300 transform hover:-translate-y-2 row-start-5 col-start-3" href="/summary">
         <img src="../static/planets/earth.gif" />

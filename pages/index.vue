@@ -2,6 +2,7 @@
   <div id="landingPage">
     <div class="grid grid-cols-6 grid-rows-5 justify-items-center items-center text-center min-h-screen">
       <h1 class="row-start-2 col-start-3 col-end-5 text-center text-6xl text-blue-300">RICO'S ADVETURES</h1>
+      <img class="row-start-3 col-start-3 col-end-5 text-center vert-move" src="../static/planets/astronaut.png" />
       <h2 class="row-start-4 col-start-3 col-end-5 text-center text-3xl text-indigo-500">Choose a planet</h2>
       <a class="transition duration-300 transform hover:-translate-y-2 row-start-1 col-start-1" href="/about">
         <img src="../static/planets/swamp.gif" />
@@ -41,5 +42,21 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+  }
+  img.vert-move {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+  }
+  img.vert-move {
+      -webkit-animation: mover 1s infinite  alternate;
+      animation: mover 1s infinite  alternate;
+  }
+  @-webkit-keyframes mover {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(-10px); }
+  }
+  @keyframes mover {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(-10px); }
   }
 </style>

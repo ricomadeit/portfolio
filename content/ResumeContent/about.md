@@ -1,11 +1,3 @@
 # About me
 
-Played Soccer for Grant Macewan Uniniversity
-
-Placed 4th at u18 Canadian Nationals
-
-Volunteer work for Free Footie and Inter Soccer Club as a coach
-
-[Music enthusiast](https://soundcloud.com/r1comadeit)
-
-Fluent in English and proficient in French
+Avid soccer player and supporter, even though I enjoy all sports in general. Played 5 years for Grant Macewan University and placed 4th at Canada's u18 Youth National tournament. Big music enthusiast, I've been producing and writing music for almost a decade. [Click here](https://soundcloud.com/r1comadeit) to see what I spend most of my time on. I also grew up on Nintendo 64 and Xbox so now I basically play any games I can get my hands on. I took french immersion from K-12, proficient in reading, writing and speaking.

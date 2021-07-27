@@ -1,19 +1,7 @@
 # Projects
-
-### Graduation Checker
----
-Created a web app that was responsible for retrieving required classes for graduation and checking them against students taken classes.
-
-### Media Player
----
-**[LoveAB Forests](https://vr.loveabforests.com/stage-2-growing-forest/walking)**
-
-A Vue component that controls a passed audio. Includes a progess bar with seeking capabilities. Was not involved in deployment.
-
 ### Covenant Foundation Lottery
 ---
 **[Covenant Foundation Lottery](https://covenantfoundationlottery.ca/winners)**
-
 - In charge of setting up the repository(Github), Storybook + Chromatic, Tailwind and Vue
 - Was responsible for planning for compound components
 - Created, tested and styled card components that are use throughout the site
@@ -24,8 +12,19 @@ A Vue component that controls a passed audio. Includes a progess bar with seekin
 ### ZGM 
 ---
 **[ZGM](/website/when/ready)**
-
 - Built out many of the cards on the site, where most had animations and a strict style guideline
 - Created, tested and styled an animated numbers countdown using greensock for the animation
 - Was not involved in deployment
 
+### Media Player
+---
+**[LoveAB Forests](https://vr.loveabforests.com/stage-2-growing-forest/walking)**
+- A Vue component that controls a passed audio. Includes a progess bar with seeking capabilities.
+- Was required to stick to strict css styling in figma
+- Was not involved in deployment
+
+### Graduation Checker
+---
+- Created a web app that was responsible for retrieving required classes for graduation and checking them against students taken classes
+- Backend was built using SQL Server and front end was done in JavaScript
+- Graduation project

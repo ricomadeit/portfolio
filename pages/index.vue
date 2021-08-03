@@ -39,6 +39,7 @@
   #landingPage { 
     background: url(../static/backgrounds/spaceBackground.png); 
     background-size: cover;
+    overflow: hidden;
   }
   .planets {
     object-fit: cover;

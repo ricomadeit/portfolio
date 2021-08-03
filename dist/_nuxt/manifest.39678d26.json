@@ -1,9 +1,0 @@
-{
-  "name": "portfolio-website",
-  "short_name": "portfolio-website",
-  "icons": [],
-  "start_url": "/%3Crepository-name%3E/?standalone=true",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "lang": "en"
-}

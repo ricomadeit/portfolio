@@ -15,4 +15,5 @@ h3, h4, h5, h6, p, ul {
 html, body {
     overflow: hidden;
     position: relative;
+    height: 100%;
 }

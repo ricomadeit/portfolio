@@ -7,15 +7,8 @@
 html {
     font-family: upheaval;
     padding: env(safe-area-inset);
-    height  : 100%;
-    overflow: hidden;
-    position: relative;
-}
-
-body {
-    height  : 100%;
-    overflow: auto;
-    position: relative;
+    height: 100%;
+    overflow-y: auto;
 }
 
 h3, h4, h5, h6, p, ul {

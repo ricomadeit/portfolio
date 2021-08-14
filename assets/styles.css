@@ -6,14 +6,10 @@
 
 html {
     font-family: upheaval;
+    overflow-y: scroll; /* has to be scroll, not auto */
+    -webkit-overflow-scrolling: touch;
 }
 
 h3, h4, h5, h6, p, ul {
     font-family: 'Cairo', sans-serif;
-}
-
-html, body {
-    overflow: hidden;
-    position: relative;
-    height: 100%;
 }

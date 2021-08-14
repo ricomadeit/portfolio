@@ -1,13 +1,15 @@
 <template>
-    <div :class="[`prose px-8 py-4 overflow-auto max-w-full h-screen ${slugBackground}`]">
-        <article class="pb-4 text-base md:text-lg tracking-normal">
-            <nuxt-content :document="article" />
-        </article>
-        <div class="flex justify-end">
-            <div class="bg-white w-34 md:w-48 rounded transition duration-300 transform hover:-translate-y-1">
-                <NuxtLink class="pl-2 pr-2 text-lg md:text-2xl" to="/"> Back to space </NuxtLink>
-            </div>
+    <div>
+        <div :class="[`h-screen prose px-8 py-4 mb- overflow-auto max-w-full ${slugBackground}`]">
+            <article class="h-full w-full text-base md:text-lg tracking-normal">
+                <nuxt-content class="pb-8" :document="article" />
+            </article>
         </div>
+        <footer class="fixed bottom-0 right-0 w-full text-center">
+            <div class="flex justify-items-stretch bg-white rounded transition duration-300 hover:bg-gray-500 hover:text-white">
+                <NuxtLink class="w-full text-lg md:text-2xl" to="/"> Back to space </NuxtLink>
+            </div>
+        </footer>
     </div>
 </template>
 

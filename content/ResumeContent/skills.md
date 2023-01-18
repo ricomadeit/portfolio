@@ -8,10 +8,13 @@
 * Unix/Terminal
 * C
 * Python
+* PHP
+* Liquid
 * SQL
 ### Frameworks and Libraries
 ---
 * Vue
+* React
 * Tailwind
 * Storybook & Chromatic
 * Git, Github & Github Actions
@@ -23,3 +26,4 @@
 * React
 * Bootstrap
 * GreenSock
+* NextJS

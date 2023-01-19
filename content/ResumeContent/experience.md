@@ -2,7 +2,7 @@
 
 ### Web Developer, Overhaul Media. Edmonton, Alberta
 ---
-*May 2022 - January 2023 (5 month contract)*
+*May 2022 - January 2023*
 
 PHP versions and applying bug fixes when needed
 
